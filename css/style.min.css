@@ -60,7 +60,7 @@ section#testimonials .review1 p .rightQ{left:40px}
 @media (max-width:400px){section#testimonials .section-heading{font-size:35px}}
 section#contact{background-image:url("../img/footer_bg.jpg");background-position:center;background-repeat:no-repeat;background-size:cover;text-align:center}
 section#contact .section-heading{color:grey}
-section#contact .emailBtn{background:white;padding:12px 30px}
+section#contact .emailBtn{background:white;padding:12px 30px;border:1px black solid}
 footer{padding:25px 0;text-align:center}
 footer span.copyright{padding-top:40px;text-transform:none}
 ul.social-buttons{margin-bottom:18px}
