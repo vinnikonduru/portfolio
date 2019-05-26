@@ -50,16 +50,12 @@ section h3.section-subheading{font-size:16px;text-transform:none;font-style:ital
 #portfolio .portfolio-item .portfolio-caption h4{text-transform:none;margin:0}
 #portfolio .portfolio-item .portfolio-caption p{font-style:italic;font-size:11px;margin:0}
 #portfolio *{z-index:2}
-@media (min-width:1199px){#portfolio .portfolio-item{margin:0 0 30px}}@media (min-width:767px){#portfolio .portfolio-item{margin:0 0 30px}}
-section#testimonials .section-heading{margin-bottom:70px}
-section#testimonials .review1{width:300px;margin:auto;overflow:hidden}
-section#testimonials .review1 b{font-size:18px;float:right;margin-right:15px}
-section#testimonials .review1 p{text-align:center;font-size:16px;color:grey;line-height:20px;padding:5px;letter-spacing:1.2px}
-section#testimonials .review1 p span{position:relative;right:16px;font-size:25px}
-section#testimonials .review1 p .rightQ{left:40px}
-@media (max-width:400px){section#testimonials .section-heading{font-size:35px}}
+@media (min-width:1199px){#portfolio .portfolio-item{margin:0 0 30px}}
+@media (min-width:767px){#portfolio .portfolio-item{margin:0 0 30px}}
+
+
 section#contact{background-image:url("../img/footer_bg.jpg");background-position:center;background-repeat:no-repeat;background-size:cover;text-align:center;!important}
-section#contact .section-heading{color:grey}
+section#contact .section-heading{color:white}
 section#contact .emailBtn{background:white;padding:12px 30px;border:1px black solid}
 footer{padding:25px 0;text-align:center}
 footer span.copyright{padding-top:40px;text-transform:none}
