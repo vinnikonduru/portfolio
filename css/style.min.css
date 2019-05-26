@@ -20,7 +20,7 @@ h1,h2,h3,h4,h5,h6{font-weight:700}
     .navbar-custom .navbar-nav>.active>a{border-radius:3px}}
 @media (min-width:768px){.navbar-custom.affix{background-color:#031a27;padding:0 0}
     .navbar-custom.affix .navbar-brand{font-size:1.5em}}
-header{background-image:url("/img/header_bg.jpg");background-repeat:no-repeat;background-attachment:scroll;background-position:center center;text-align:center;color:white}
+header{background-image:url("../img/header_bg.jpg");background-repeat:no-repeat;background-attachment:scroll;background-position:center center;text-align:center;color:white}
 header .intro-text{padding-top:150px;padding-bottom:100px}
 header .intro-text .intro-lead-in{font-style:italic;font-size:22px;line-height:22px;margin-bottom:25px}
 header .intro-text .intro-heading{font-weight:700;font-size:50px;line-height:50px;margin-bottom:25px}
@@ -32,14 +32,14 @@ section{padding:100px 0}
 section h2.section-heading{font-size:40px;margin-bottom:15px;margin-top:0}
 section h3.section-subheading{font-size:16px;text-transform:none;font-style:italic;font-weight:400;margin-bottom:75px}
 @media (min-width:768px){section{padding:150px 0}}
-#about .about-img{background-image:url("/img/about/about-pic.jpg");background-position:center;background-repeat:no-repeat;background-size:cover;height:550px}
+#about .about-img{background-image:url("../img/about/about-pic.jpg");background-position:center;background-repeat:no-repeat;background-size:cover;height:550px}
 #about .about-desc .bio{padding-bottom:0}
 #about .about-desc .skills ul li span{float:right}
 @media only screen and (max-width:1199px){#about .about-img{height:570px}}
 @media only screen and (max-width:991px){#about .about-img{display:none}
     #about .about-desc .about-me{text-align:center}
     #about .about-desc .bio{text-align:center;padding-left:20px;padding-right:20px}
-    #about .about-desc .mb-pic{background-image:url("/img/about/about-pic.jpg");background-position:center;background-repeat:no-repeat;background-size:cover;height:200px;width:200px;margin:0 auto;border-radius:100px;margin-bottom:30px}}
+    #about .about-desc .mb-pic{background-image:url("../img/about/about-pic.jpg");background-position:center;background-repeat:no-repeat;background-size:cover;height:200px;width:200px;margin:0 auto;border-radius:100px;margin-bottom:30px}}
 #portfolio .portfolio-item{margin:0 0 15px;right:0}
 #portfolio .portfolio-item .portfolio-link{display:block;position:relative;max-width:400px;margin:0 auto}
 #portfolio .portfolio-item .portfolio-link .portfolio-hover{background:rgba(0, 0, 0, 0.7);position:absolute;width:100%;height:100%;opacity:0;-o-transition:all ease 0.5s;transition:all ease 0.5s;-webkit-transition:all ease 0.5s;-moz-transition:all ease 0.5s}
@@ -58,7 +58,7 @@ section#testimonials .review1 p{text-align:center;font-size:16px;color:grey;line
 section#testimonials .review1 p span{position:relative;right:16px;font-size:25px}
 section#testimonials .review1 p .rightQ{left:40px}
 @media (max-width:400px){section#testimonials .section-heading{font-size:35px}}
-section#contact{background-image:url("/img/footer_bg.jpg");background-position:center;background-repeat:no-repeat;background-size:cover;text-align:center}
+section#contact{background-image:url("../img/footer_bg.jpg");background-position:center;background-repeat:no-repeat;background-size:cover;text-align:center}
 section#contact .section-heading{color:white}
 section#contact .emailBtn{background:white;padding:12px 30px}
 footer{padding:25px 0;text-align:center}
