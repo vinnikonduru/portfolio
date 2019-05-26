@@ -20,7 +20,7 @@ h1,h2,h3,h4,h5,h6{font-weight:700}
     .navbar-custom .navbar-nav>.active>a{border-radius:3px}}
 @media (min-width:768px){.navbar-custom.affix{background-color:#031a27;padding:0 0}
     .navbar-custom.affix .navbar-brand{font-size:1.5em}}
-header{background-image:url("../img/header_bg.jpg");background-repeat:no-repeat;width:100%;height:100%;background-attachment:scroll;background-position:center;text-align:center;color:white }
+header{background-image:url("../img/header_bg.jpg");background-repeat:no-repeat;width:100%;height:100%;background-attachment:scroll;background-position:center;text-align:center;color: white }
 header .intro-text{padding-top:150px;padding-bottom:100px;}
 header .intro-text .intro-lead-in{font-style:italic;font-size:22px;line-height:22px;margin-bottom:25px}
 header .intro-text .intro-heading{font-weight:700;font-size:50px;line-height:50px;margin-bottom:25px}
