@@ -5,7 +5,7 @@ h1,h2,h3,h4,h5,h6{font-weight:700}
 .bg-light-gray{background-color:grey}
 .bg-darkest-gray{background-color:#222222}
 .navbar-custom{background-color:#031A27;border-color:transparent}
-.navbar-custom .navbar-brand{color:grey}
+.navbar-custom .navbar-brand{color:black}
 .navbar-custom .navbar-brand.active,.navbar-custom .navbar-brand:active,.navbar-custom .navbar-brand:focus,.navbar-custom .navbar-brand:hover{color:white}
 .navbar-custom .navbar-collapse{border-color:rgba(255, 255, 255, 0.97)}
 .navbar-custom .navbar-toggle{background-color:#0c283b;border-color:rgba(0, 0, 0, 0.9);color:white;font-size:12px;padding-right:18px;padding-left:18px}
