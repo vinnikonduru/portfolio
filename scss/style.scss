@@ -128,7 +128,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 header {
-    background-image: url('./img/header_bg.jpg');
+    background-image: url('../img/header_bg.jpg');
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
@@ -390,7 +390,7 @@ section#testimonials{
 // Contact Section
 section#contact {
     // background-color: $gray-darker;
-    background-image: url('./img/footer_bg.jpg');
+    background-image: url('../img/footer_bg.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
