@@ -1,1 +1,1 @@
-Clink this link to view Website - https://vinnikonduru.github.io/portfolio/
+Clink this link to view My Portfolio Website - https://vinnikonduru.github.io/portfolio/
